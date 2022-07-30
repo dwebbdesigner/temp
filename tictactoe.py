@@ -1,3 +1,5 @@
+#decent tic tac toe game
+
 def get_player():
     player = None
     print("Player 1, Choose your character!")
