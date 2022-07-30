@@ -1,4 +1,4 @@
-#decent tic tac toe games
+#decent tic tac toe game
 
 def get_player():
     player = None
